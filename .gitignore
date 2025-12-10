@@ -1,0 +1,23 @@
+# VS Code settings
+.vscode/
+
+# Compiled files
+*.exe
+*.o
+*.out
+main
+main_new
+
+# Build artifacts
+*.a
+*.so
+*.dylib
+
+# Temporary files
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Debug files
+*.dSYM/
